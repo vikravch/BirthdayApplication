@@ -1,0 +1,19 @@
+<resources>
+    <!-- System strings -->
+    <string name="app_name">BirthdayApplication</string>
+
+    <!-- UI strings from activities -->
+    <string name="empty_user">Users not found</string>
+    <string name="tvLabFeedName">Name</string>
+    <string name="tvLabFeedEmail">Email</string>
+    <string name="tvLabFeedMessage">Massage</string>
+    <string name="button_send_feedback">Send</string>
+    <string name="users_tab_title">Users</string>
+    <string name="empty_tab_title">Empty</string>
+    <string name="feedback_tab_title">Feedback</string>
+    <string name="empty_text">Empty</string>
+    <string name="dialog_load_title">Loading users</string>
+    <string name="dialog_load_text">Loading...</string>
+
+
+</resources>
